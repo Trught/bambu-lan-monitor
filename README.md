@@ -2,8 +2,7 @@
 
 Python 3.12+ LAN discovery and read-only MQTT telemetry for Bambu Lab printers.
 One runtime dependency: `paho-mqtt`. All settings are command-line arguments.
-English error catalogs are included as plain JSON: no translations, `.env`
-loader, archives, runtime extraction, cloud API or Bambu account.
+English error catalogs are included as plain JSON
 
 ## Quick start
 
